@@ -309,6 +309,12 @@ export interface Marker {
    * @default 1
    */
   opacity?: number;
+    /**
+   * The angle by which to rotate the marker, expressed clockwise in degrees
+   *
+   * @default 0
+   */
+    rotation?: number;
   /**
    * Title, a short description of the overlay.
    */
