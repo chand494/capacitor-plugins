@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-plugins",
-  "private": true,
+  "name": "sb-capacitor-plugins",
+  "version": "1.0.1",
   "scripts": {
     "build": "lerna run build",
     "watch": "lerna run --parallel --stream watch",
